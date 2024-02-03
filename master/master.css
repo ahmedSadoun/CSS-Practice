@@ -1,8 +1,6 @@
-/* Target all paragraphs */
-p{
-    font-size: 50px;
-    color:red;
-}
-.special{
-    color: green;
+div {
+    /* background-color: red; */
+    /* background-color: rgb(0, 255,0, 10%); */
+    background-image: url("../images/bk.avif");
+    background-repeat: repeat;
 }
