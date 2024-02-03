@@ -1,0 +1,8 @@
+/* Target all paragraphs */
+p{
+    font-size: 50px;
+    color:red;
+}
+.special{
+    color: green;
+}
