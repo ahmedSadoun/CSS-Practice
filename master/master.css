@@ -1,13 +1,20 @@
-.first {
-    visibility: hidden; /* although it is hidden , it reserves it place */
-}
-.second {
-    visibility: visible;
-
-}
 /* .first {
-    display: none;   it is hidden , it get removed from the workflow, doesn't reserve it place 
-}
-.second {
-    display: none;
+   background-color: red;
+   display: block; 
+   padding: 10px;
+   margin: 10px;
+   border: 50px;
+   border-color: black;
+   border-radius: 15px;
 } */
+
+.first, .second, .three, .four { 
+    background-color: red;
+    display: block; 
+    padding: 10px;
+    margin: 10px;
+    border: 50px;
+    border-color: black;
+    border-radius: 15px;
+    border-style: dashed;
+}
