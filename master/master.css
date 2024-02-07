@@ -1,20 +1,8 @@
-/* .first {
-   background-color: red;
-   display: block; 
-   padding: 10px;
-   margin: 10px;
-   border: 50px;
-   border-color: black;
-   border-radius: 15px;
-} */
+/* Nesting is one of the most important concepts in css */
+div p {
+    color: red;
+}
 
-.first, .second, .three, .four { 
-    background-color: red;
-    display: block; 
-    padding: 10px;
-    margin: 10px;
-    border: 50px;
-    border-color: black;
-    border-radius: 15px;
-    border-style: dashed;
+p {
+    color: blue;
 }
