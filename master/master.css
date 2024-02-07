@@ -1,8 +1,5 @@
-/* Nesting is one of the most important concepts in css */
-div p {
-    color: red;
-}
-
-p {
-    color: blue;
+div {
+    height: 100px;
+    width: 100px;
+    overflow: auto;
 }
