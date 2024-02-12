@@ -2,5 +2,7 @@ div {
   background-color: azure;
   text-align: center;
   direction: ltr; /* Defines the direction of the container*/
-
+}
+img {
+    vertical-align: middle;
 }
