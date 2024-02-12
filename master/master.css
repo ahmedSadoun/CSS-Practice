@@ -1,9 +1,17 @@
-div {
-  background-color: azure;
-  text-align: center;
-  direction: ltr; /* Defines the direction of the container*/
-  text-decoration: none /* Decorate and DeDecorate it */;
+div div {
+    background-color: antiquewhite;
+    letter-spacing: 5px;
+    text-indent: 100px;
+    word-spacing: 50px;
 }
-img {
-    vertical-align: middle;
+/* #div1{
+    background-color: antiquewhite;
+    letter-spacing: 5px;
+    line-height: 2;
+} */
+
+#div2{
+    background-color: antiquewhite;
+   word-break: break-all;
+    
 }
